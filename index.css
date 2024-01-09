@@ -1,0 +1,36 @@
+body{
+    background-color: #353030;
+}
+input.txtbox{
+    background-color: lemonchiffon;
+    color :black;
+    width: 210px;
+    height: 25px;
+}
+input.txtbox:hover{
+    background-color: lemonchiffon;
+    color :black;
+    width: 210px;
+    height: 25px;
+    box-shadow: #181818 4px 4px;
+}
+button{
+    background-color: #817f71;
+    color: rgb(25, 25, 24);
+    width: 120px;
+    height: 30px;
+    border-top-left-radius: 30%;
+}
+button:hover{
+    width: 120px;
+    height: 30px;
+    border: #4e4c43;
+    border-bottom-right-radius: 30%;
+    border-top-left-radius: 0%;
+    color: rgb(25, 25, 24);
+}
+#iframe{
+    height:200px;
+    width:300px;
+    margin-left:50%;
+}
